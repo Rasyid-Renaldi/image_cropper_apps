@@ -1,4 +1,4 @@
-# photo_picker_initial
+# image_cropper_apps
 
 A new Flutter project.
 
